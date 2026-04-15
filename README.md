@@ -22,9 +22,6 @@ Full ML pipeline predicting customer subscription to term deposits.
 Trained 3 models, handled class imbalance with SMOTE.
 `Python` `Scikit-learn` `XGBoost` `SMOTE`
 
-## 📈 GitHub Stats
-![Heran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heran-Am&show_icons=true&theme=default)
-
 ## 📫 Let's Connect
 🌍 Looking for **Data Scientist** roles in **Germany**
 📧 Reach me via GitHub
