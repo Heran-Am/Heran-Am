@@ -1,4 +1,4 @@
-- # Hi, I'm Heran 👋
+- # Hi, I'm Hieran 👋
 
 🎓 MSc Data Science student passionate about turning raw data into real insights.
 
